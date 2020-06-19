@@ -27,10 +27,6 @@ $ npm start
 ### Nexmo API Keys
 You will need to add your own Nexmo api key, secret and virtual number
 
-### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
 
 ### Version
 
